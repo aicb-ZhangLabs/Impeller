@@ -34,9 +34,7 @@ torch-sparse==0.6.16
 ## Usage
 
 ```
-
 python train.py
-
 ```
 
 ## Contact
