@@ -2,7 +2,7 @@
 **Impeller**: A Path-Based Heterogeneous Graph Learning Method for Spatial Transcriptomic Data Imputation
 
 ## Overview
-![alt text](./Figure/Figure1_Flowchart.pdf)
+![alt text](./Figure/Figure1_Flowchart.png)
 
 ## Setup
 Clone the repository. 
