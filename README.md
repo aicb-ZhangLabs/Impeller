@@ -26,7 +26,7 @@ torch-sparse==0.6.16
 
 ## File Descriptions
 
-* data.py: Handles data preprocessing and dataset management.
+* data.py: Handles data preprocessing and dataset management. (The data can be accessed at https://github.com/LieberInstitute/spatialLIBD)
 * model.py: Contains the model architecture for Impeller.
 * train.py: Code for training the Impeller model.
 * utils.py: Utility functions supporting data handling, model operations, etc.
