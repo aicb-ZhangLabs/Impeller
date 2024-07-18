@@ -39,3 +39,6 @@ python train.py
 
 ## Contact
 For questions about the data and code, please contact zihend1@uci.edu. We will do our best to provide support and address any issues. We appreciate your feedback!
+
+## Light Version
+You can find more information about the light version of Impeller here: https://pypi.org/project/impeller/0.1.0/
